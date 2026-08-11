@@ -1,0 +1,54 @@
+{
+  "2022-2023": {
+    "ddi_pattern": "*2022-2023*.xlsx",
+    "zip_pattern": "*2022-2023*.zip",
+    "layout": "NSS_ASUSE_22_23_Layout_mult_post.xlsx",
+    "volume_i": "ASUSE_2223_Vol_I.pdf",
+    "volume_ii": "ASUSE_2223_Vol_II.pdf",
+    "estimation_procedure": "ASUSE_2223_Estimation_Procedure.pdf",
+    "source_url": "https://microdata.gov.in/NADA/index.php/catalog/222",
+    "output_year": "2022-2023",
+    "published_date": "18-Dec-24",
+    "multiplier_divisor": 100,
+    "district_page_start": 147,
+    "district_page_stop": 161,
+    "raw_stem": "asuse_2223_esu",
+    "official_benchmarks": {
+      "establishments": {"rural": 35643300, "urban": 29405100, "total": 65048400},
+      "workers": {"rural": 52366300, "urban": 57259700, "total": 109626000}
+    }
+  },
+  "2023-2024": {
+    "ddi_pattern": "*2023-2024*.xlsx",
+    "zip_pattern": "*2023-2024*.zip",
+    "layout": "NSS_ASUSE_23_24_Layout_mult_post.xlsx",
+    "volume_i": "ASUSE_2324_Vol_I.pdf",
+    "volume_ii": "ASUSE_2324_Vol_II.pdf",
+    "estimation_procedure": "ASUSE_2324_Estimation_Procedure.pdf",
+    "source_url": "https://microdata.gov.in/NADA/index.php/catalog/238",
+    "output_year": "2023-2024",
+    "published_date": "25-Apr-25",
+    "multiplier_divisor": 100,
+    "district_page_start": 154,
+    "district_page_stop": 169,
+    "raw_stem": "asuse_2324_esu",
+    "official_benchmarks": {
+      "establishments": {"rural": 39747700, "urban": 33651800, "total": 73399500},
+      "workers": {"rural": 56138400, "urban": 64461400, "total": 120599800}
+    }
+  },
+  "2025": {
+    "ddi_pattern": "*2025*.xlsx",
+    "zip_pattern": "*2025*.zip",
+    "layout": "NSS_ASUSE_2025_Layout_mult_post.xlsx",
+    "volume_i": "ASUSE_2025_Vol_I.pdf",
+    "estimation_procedure": "ASUSE_2025_Estimation_Procedure.pdf",
+    "source_url": "https://microdata.gov.in/NADA/index.php/catalog/293",
+    "output_year": 2025,
+    "published_date": "06-May-26",
+    "multiplier_divisor": 100,
+    "district_page_start": 158,
+    "district_page_stop": 175,
+    "raw_stem": "asuse_2025_esu"
+  }
+}

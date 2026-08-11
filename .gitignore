@@ -1,0 +1,33 @@
+# Never commit category-level source data or generated deliverables.
+/*/Input/
+/*/input/
+/*/work/
+/*/output/
+/*/qa/
+/*/mapping/
+/*/logs/
+/*/output.zip
+
+# Python and local environments
+__pycache__/
+*.py[cod]
+.venv/
+venv/
+env/
+
+# Secrets and credentials
+/.gh-auth-temp/
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editor and OS files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*

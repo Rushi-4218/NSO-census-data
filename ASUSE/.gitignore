@@ -1,0 +1,46 @@
+# Official/raw survey inputs and documentation
+/Input/
+
+# Generated data, client deliverables, diagnostics, and caches
+/work/
+/output/
+/qa/
+/mapping/
+/logs/
+/output.zip
+/config/pipeline_config.json
+
+# Python-generated files and local environments
+__pycache__/
+*.py[cod]
+*.pyo
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+.coverage
+htmlcov/
+.venv/
+venv/
+env/
+
+# Secrets and local credentials
+.env
+.env.*
+*.pem
+*.key
+credentials.json
+secrets.json
+
+# Editor and operating-system files
+.vscode/
+.idea/
+.DS_Store
+Thumbs.db
+desktop.ini
+~$*
+
+# Temporary files
+*.tmp
+*.temp
+*.bak
+*.swp
