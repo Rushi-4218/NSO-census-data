@@ -1,0 +1,138 @@
+{
+  "pipeline_version": "6.0.0",
+  "input_files": {
+    "dictionary": "SAS_Master_Complete_Data_Dictionary.xlsx",
+    "sas_2003": "Situation Assessment Survey of Farmers, 2003.zip",
+    "sas_2013_visit1": "Situation Assessment Survey of Agricultural Households, January - December 2013.zip",
+    "sas_2013_visit2": "Situation Assessment survey of Agricultural households, NSS 70th Round  Jan - Dec 2013  Visit 2.zip",
+    "sas_2019": "Land and Livestock Holding of Households and Situation Assessment of Agricultural Households)-JANUARY 2019 – DECEMBER 2019-Visit 1.zip",
+    "client_reference": "SAS_Maharashtra.csv"
+  },
+  "years": {
+    "2003": {
+      "year": 2003,
+      "survey_id": "SAS_59",
+      "survey_name": "Situation Assessment Survey of Farmers (NSS 59th Round)",
+      "published_date": "01-Dec-05",
+      "source": "https://microdata.gov.in/NADA/index.php/catalog/104"
+    },
+    "2013": {
+      "year": 2013,
+      "survey_id": "SAS_70",
+      "survey_name": "Situation Assessment Survey of Agricultural Households (NSS 70th Round)",
+      "published_date": "19-Dec-14",
+      "source_visit1": "https://microdata.gov.in/NADA/index.php/catalog/133",
+      "source_visit2": "https://microdata.gov.in/NADA/index.php/catalog/134",
+      "source": "https://microdata.gov.in/NADA/index.php/catalog/133"
+    },
+    "2019": {
+      "year": 2019,
+      "survey_id": "SAS_77",
+      "survey_name": "Situation Assessment Survey of Agricultural Households (NSS 77th Round)",
+      "published_date": "10-Sep-21",
+      "source": "https://microdata.gov.in/NADA/index.php/catalog/157"
+    }
+  },
+  "expected_household_visits": {
+    "2003": 102875,
+    "2013": 70107,
+    "2019": 114939
+  },
+  "monthlyization": {
+    "2003": {
+      "crop_half_year_divisor": 6,
+      "wages_7day_to_month_factor": 4.285714285714286,
+      "monthly_income_components": [
+        "net_crop_receipts_month",
+        "income_wages_month",
+        "income_animals_month",
+        "income_nonfarm_month"
+      ],
+      "method_note": "2003 crop values are half-year; animal/non-farm are 30-day. Weekly wage conversion remains an explicit project harmonization factor and is reported in methodology_assumptions.csv. Lease and pension/remittance amounts are unsupported and stay blank as individual KPIs."
+    },
+    "2013": {
+      "crop_half_year_divisor": 6,
+      "member_income_divisor": 6,
+      "monthly_income_components": [
+        "net_crop_receipts_month",
+        "income_wages_month",
+        "income_animals_month",
+        "income_nonfarm_month"
+      ],
+      "method_note": "2013 Block 4 wage/salary earnings refer to the six-month visit reference period (July-December 2012 in Visit 1; January-June 2013 in Visit 2), so divide by 6. Crop values are also half-year; animal/non-farm values are last 30 days. Lease and pension/remittance amount KPIs are unsupported by the supplied 2013 source and remain blank."
+    },
+    "2019": {
+      "crop_half_year_divisor": 6,
+      "member_income_divisor": 6,
+      "monthly_income_components": [
+        "net_crop_receipts_month",
+        "income_wages_month",
+        "income_lease_month",
+        "income_animals_month",
+        "income_nonfarm_month",
+        "income_pension_remit_month"
+      ],
+      "method_note": "2019 Block 3 wages, pension/remittances, and leased-out-land rent are collected for the six-month visit reference period (July-December 2018 or January-June 2019), so divide by 6. Crop values are half-year; animal/non-farm values are last 30 days."
+    }
+  },
+  "carry_2013_visit1_land_to_visit2": true,
+  "include_imputed_crop_expense_2019": true,
+  "include_imputed_animal_expense_2019": true,
+  "land_2019": {
+    "acre_to_hectare": 0.40468564224,
+    "possessed_mode": "official_block5_categories",
+    "owned_serial_rows": [
+      1,
+      5,
+      6
+    ],
+    "possessed_positive_serial_rows": [
+      1,
+      2,
+      3,
+      4,
+      6,
+      7,
+      8,
+      9
+    ],
+    "leased_out_serial_rows": [
+      5
+    ]
+  },
+  "geography": {
+    "authority": "SAS_Master_Complete_Data_Dictionary.xlsx::State_District",
+    "state_code_width": 2,
+    "district_code_width": 4,
+    "historical_unmatched_policy": "preserve_code_blank_name_and_QA",
+    "district_name_rule": "strip_only_final_parenthetical_state_suffix",
+    "district_name_completeness_required_2019": true,
+    "2019_missing_name_fix": "State_District sheet extended for district codes observed in SAS 2019 with blank names"
+  },
+  "require_supported_income_components_complete": true,
+  "write_internal_household_mart": false,
+  "write_weighted_summary": true,
+  "drop_exact_duplicates_in_final": true,
+  "smoke_test_row_limit": 3000,
+  "reuse_cached_household_mart": true,
+  "cache_format": "pickle",
+  "final_geography_contract": {
+    "reference_logic": "ASUSE State/District columns only",
+    "all_india": {
+      "State_ID": "0",
+      "State_Name": "India",
+      "District_ID": "0",
+      "District_Name": "All Districts"
+    },
+    "state_total": {
+      "District_ID": "0",
+      "District_Name": "All Districts"
+    },
+    "district": "actual SAS state/district mapping from master dictionary",
+    "aggregate_houseHold_ID": "REMOVED",
+    "aggregate_hh_type_in_24col_output": "HH_Type column replaces houseHold_ID",
+    "full_hh_type_hierarchy_output": "main final CSV and weighted summary report"
+  },
+  "final_output_grain": "Geography x Visit x HH_Type x Size x KPI",
+  "emit_household_rows": false
+}

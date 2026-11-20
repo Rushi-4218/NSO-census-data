@@ -1,0 +1,683 @@
+﻿State_ID,State_Name,District_Code,District_ID,District_Name,Source,Status,Notes
+1,Jammu & Kashmir,1,101,Kupwara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,2,102,Badgam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,3,103,Leh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,4,104,Kargil,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,5,105,Punch,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,6,106,Rajouri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,7,107,Kathua,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,8,108,Baramula,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,9,109,Bandipore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,10,110,Srinagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,11,111,Ganderbal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,12,112,Pulwama,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,13,113,Shupiyan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,14,114,Anantnag,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,15,115,Kulgam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,16,116,Doda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,17,117,Ramban,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,18,118,Kishtwar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,19,119,Udhampur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,20,120,Reasi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,21,121,Jammu,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+1,Jammu & Kashmir,22,122,Samba,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,1,201,Chamba,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,2,202,Kangra,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,3,203,Lahul & Spiti,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,4,204,Kullu,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,5,205,Mandi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,6,206,Hamirpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,7,207,Una,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,8,208,Bilaspur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,9,209,Solan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,10,210,Sirmaur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,11,211,Shimla,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+2,Himachal Pradesh,12,212,Kinnaur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,1,301,Gurdaspur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,2,302,Kapurthala,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,3,303,Jalandhar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,4,304,Hoshiarpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,5,305,Shahid Bhagat Singh Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,6,306,Fatehgarh Sahib,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,7,307,Ludhiana,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,8,308,Moga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,9,309,Firozpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,10,310,Muktsar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,11,311,Faridkot,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,12,312,Bhatinda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,13,313,Mansa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,14,314,Patiala,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,15,315,Amritsar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,16,316,Tarn Taran,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,17,317,Rupnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,18,318,Sahibzada Ajit Singh Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,19,319,Sangrur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,20,320,Barnala,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,21,321,Pathankot,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+3,Punjab,22,322,Fazilka,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+4,Chandigarh,1,401,Chandigarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,1,501,Uttarkashi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,2,502,Chamoli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,3,503,Rudraprayag,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,4,504,Tehri Garhwal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,5,505,Dehradun,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,6,506,Garhwal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,7,507,Pithoragarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,8,508,Bageshwar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,9,509,Almora,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,10,510,Champawat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,11,511,Nainital,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,12,512,Udham Singh Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+5,Uttarakhand,13,513,Hardwar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,1,601,Panchkula,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,2,602,Ambala,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,3,603,Yamunanagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,4,604,Kurukshetra,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,5,605,Kaithal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,6,606,Karnal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,7,607,Panipat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,8,608,Sonipat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,9,609,Jind,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,10,610,Fatehabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,11,611,Sirsa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,12,612,Hisar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,13,613,Bhiwani,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,14,614,Rohtak,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,15,615,Jhajjar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,16,616,Mahendragarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,17,617,Rewari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,18,618,Gurgaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,19,619,Mewat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,20,620,Faridabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+6,Haryana,21,621,Palwal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,1,701,North West,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,2,702,North,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,3,703,North East,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,4,704,East,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,5,705,New Delhi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,6,706,Central,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,7,707,West,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,8,708,Sth Wt,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+7,Delhi,9,709,South,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,1,801,Sri Ganganagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,2,802,Hanumangarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,3,803,Bikaner,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,4,804,Churu,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,5,805,Jhunjhunun,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,6,806,Alwar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,7,807,Bharatpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,8,808,Dhaulpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,9,809,Karauli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,10,810,Sawai Madhopur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,11,811,Dausa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,12,812,Jaipur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,13,813,Sikar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,14,814,Nagaur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,15,815,Jodhpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,16,816,Jaisalmer,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,17,817,Barmer,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,18,818,Jalor,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,19,819,Sirohi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,20,820,Pali,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,21,821,Ajmer,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,22,822,Tonk,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,23,823,Bundi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,24,824,Bhilwara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,25,825,Rajsamand,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,26,826,Dungarpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,27,827,Banswara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,28,828,Chittaurgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,29,829,Kota,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,30,830,Baran,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,31,831,Jhalawar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,32,832,Udaipur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+8,Rajasthan,33,833,Pratapgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,1,901,Saharanpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,2,902,Muzaffarnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,3,903,Bijnor,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,4,904,Moradabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,5,905,Rampur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,6,906,Jyotiba Phule Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,7,907,Meerut,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,8,908,Baghpat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,9,909,Ghaziabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,10,910,Gautam Buddha Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,11,911,Bulandshahr,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,12,912,Aligarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,13,913,Mahamaya Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,14,914,Mathura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,15,915,Agra,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,16,916,Firozabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,17,917,Mainpuri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,18,918,Budaun,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,19,919,Bareilly,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,20,920,Pilibhit,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,21,921,Shahjahanpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,22,922,Kheri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,23,923,Sitapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,24,924,Hardoi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,25,925,Unnao,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,26,926,Lucknow,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,27,927,Rae Bareli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,28,928,Farrukhabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,29,929,Kannauj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,30,930,Etawah,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,31,931,Auraiya,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,32,932,Kanpur Dehat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,33,933,Kanpur Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,34,934,Jalaun,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,35,935,Jhansi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,36,936,Lalitpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,37,937,Hamirpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,38,938,Mahoba,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,39,939,Banda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,40,940,Chitrakoot,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,41,941,Fatehpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,42,942,Pratapgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,43,943,Kaushambi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,44,944,Allahabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,45,945,Bara Banki,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,46,946,Faizabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,47,947,Ambedkar Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,48,948,Sultanpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,49,949,Bahraich,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,50,950,Shrawasti,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,51,951,Balrampur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,52,952,Gonda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,53,953,Siddharthnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,54,954,Basti,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,55,955,Sant Kabir Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,56,956,Maharajganj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,57,957,Gorakhpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,58,958,Kushinagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,59,959,Deoria,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,60,960,Azamgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,61,961,Mau,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,62,962,Ballia,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,63,963,Jaunpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,64,964,Ghazipur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,65,965,Chandauli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,66,966,Varanasi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,67,967,Sant Ravidas Nagar(Bhadohi),MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,68,968,Mirzapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,69,969,Sonbhadra,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,70,970,Etah,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+9,Uttar Pradesh,71,971,Kanshiram Nagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,1,1001,Pashchim Champaran,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,2,1002,Purba Champaran,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,3,1003,Sheohar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,4,1004,Sitamarhi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,5,1005,Madhubani,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,6,1006,Supaul,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,7,1007,Araria,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,8,1008,Kishanganj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,9,1009,Purnia,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,10,1010,Katihar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,11,1011,Madhepura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,12,1012,Saharsa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,13,1013,Darbhanga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,14,1014,Muzaffarpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,15,1015,Gopalganj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,16,1016,Siwan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,17,1017,Saran,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,18,1018,Vaishali,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,19,1019,Samastipur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,20,1020,Begusarai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,21,1021,Khagaria,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,22,1022,Bhagalpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,23,1023,Banka,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,24,1024,Munger,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,25,1025,Lakhisarai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,26,1026,Sheikhpura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,27,1027,Nalanda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,28,1028,Patna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,29,1029,Bhojpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,30,1030,Buxar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,31,1031,Kaimur (Bhabua),MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,32,1032,Rohtas,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,33,1033,Aurangabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,34,1034,Gaya,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,35,1035,Nawada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,36,1036,Jamui,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,37,1037,Jehanabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+10,Bihar,38,1038,Arwal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+11,Sikkim,1,1101,North District,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+11,Sikkim,2,1102,West District,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+11,Sikkim,3,1103,South District,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+11,Sikkim,4,1104,East District,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,1,1201,Tawang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,2,1202,West Kameng,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,3,1203,East Kameng,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,4,1204,Papum Pare,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,5,1205,Upper Subansiri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,6,1206,West Siang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,7,1207,East Siang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,8,1208,Upper Siang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,9,1209,Changlang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,10,1210,Tirap,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,11,1211,Lower Subansiri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,12,1212,Kurung Kumey,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,13,1213,Dibang Valley,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,14,1214,Lower Dibang Valley,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,15,1215,Lohit,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+12,Arunachal Pradesh,16,1216,Anjaw,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,1,1301,Mon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,2,1302,Mokokchung,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,3,1303,Zunheboto,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,4,1304,Wokha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,5,1305,Dimapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,6,1306,Phek,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,7,1307,Tuensang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,8,1308,Longleng,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,9,1309,Kiphire,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,10,1310,Kohima,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+13,Nagaland,11,1311,Peren,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,1,1401,Senapati,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,2,1402,Tamenglong,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,3,1403,Churachandpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,4,1404,Bishnupur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,5,1405,Thoubal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,6,1406,Imphal West,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,7,1407,Imphal East,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,8,1408,Ukhrul,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+14,Manipur,9,1409,Chandel,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,1,1501,Mamit,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,2,1502,Kolasib,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,3,1503,Aizwal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,4,1504,Champhai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,5,1505,Serchhip,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,6,1506,Lunglei,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,7,1507,Lawngtlai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+15,Mizoram,8,1508,Saiha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+16,Tripura,1,1601,West Tripura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+16,Tripura,2,1602,South Tripura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+16,Tripura,3,1603,Dhalai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+16,Tripura,4,1604,North Tripura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,1,1701,West Garo Hills,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,2,1702,East Garo Hills,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,3,1703,South Garo Hills,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,4,1704,West Khasi Hills,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,5,1705,Ribhoi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,6,1706,East Khasi Hills,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+17,Meghalaya,7,1707,Jaintia Hills,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,1,1801,Kokrajhar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,2,1802,Dhubri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,3,1803,Goalpara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,4,1804,Barpeta,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,5,1805,Morigaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,6,1806,Nagaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,7,1807,Sonitpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,8,1808,Lakhimpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,9,1809,Dhemaji,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,10,1810,Tinsukia,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,11,1811,Dibrugarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,12,1812,Sivasagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,13,1813,Jorhat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,14,1814,Golaghat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,15,1815,Karbi Anglong,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,16,1816,Dima Hasao,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,17,1817,Cachar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,18,1818,Karimganj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,19,1819,Hailakandi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,20,1820,Bongaigaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,21,1821,Chirang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,22,1822,Kamrup,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,23,1823,Kamrup Metropolitan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,24,1824,Nalbari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,25,1825,Baksa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,26,1826,Darrang,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+18,Assam,27,1827,Udalguri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,1,1901,Darjiling,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,2,1902,Jalpaiguri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,3,1903,Koch Bihar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,4,1904,Uttar Dinajpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,5,1905,Dakshin Dinajpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,6,1906,Maldah,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,7,1907,Murshidabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,8,1908,Birbhum,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,9,1909,Purba Barddhaman,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,10,1910,Nadia,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,11,1911,North Twenty Four Parganas,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,12,1912,Hugli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,13,1913,Bankura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,14,1914,Puruliya,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,15,1915,Haora,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,16,1916,Kolkata,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,17,1917,South Twenty Four Parganas,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,18,1918,Paschim Medinipur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,19,1919,Purba Medinipur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,20,1920,Alipurduar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,21,1921,Kalimpong,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,22,1922,Jhargram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+19,West Bengal,23,1923,Paschim Barddhaman,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,1,2001,Garhwa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,2,2002,Chatra,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,3,2003,Kodarma,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,4,2004,Giridih,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,5,2005,Deoghar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,6,2006,Godda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,7,2007,Sahibganj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,8,2008,Pakur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,9,2009,Dhanbad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,10,2010,Bokaro,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,11,2011,Lohardaga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,12,2012,Purbi Singhbhum,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,13,2013,Palamu,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,14,2014,Latehar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,15,2015,Hazaribagh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,16,2016,Ramgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,17,2017,Dumka,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,18,2018,Jamtara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,19,2019,Ranchi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,20,2020,Khunti,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,21,2021,Gumla,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,22,2022,Simdega,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,23,2023,Pashchimi Singhbhum,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+20,Jharkhand,24,2024,Saraikela-Kharsawan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,1,2101,Bargarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,2,2102,Jharsuguda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,3,2103,Sambalpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,4,2104,Debagarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,5,2105,Sundargarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,6,2106,Kendujhar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,7,2107,Mayurbhanj,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,8,2108,Baleshwar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,9,2109,Bhadrak,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,10,2110,Kendrapara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,11,2111,Jagatsinghapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,12,2112,Cuttack,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,13,2113,Jajapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,14,2114,Dhenkanal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,15,2115,Anugul,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,16,2116,Nayagarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,17,2117,Khordha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,18,2118,Puri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,19,2119,Ganjam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,20,2120,Gajapati,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,21,2121,Kandhamal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,22,2122,Baudh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,23,2123,Subarnapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,24,2124,Balangir,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,25,2125,Nuapada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,26,2126,Kalahandi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,27,2127,Rayagada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,28,2128,Nabarangapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,29,2129,Koraput,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+21,Odisha,30,2130,Malkangiri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,1,2201,Koriya,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,2,2202,Surguja,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,3,2203,Jashpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,4,2204,Raigarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,5,2205,Korba,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,6,2206,Janjgir-Champa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,7,2207,Bilaspur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,8,2208,Kabeerdham,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,9,2209,Rajnandgaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,10,2210,Durg,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,11,2211,Ri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,12,2212,Mahasamund,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,13,2213,Dhamtari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,14,2214,Uttar Bastar Kanker,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,15,2215,Bastar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,16,2216,Narayanpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,17,2217,Dakshin Bastar Dantewada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,18,2218,Bijapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,19,2219,Balodabazar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,20,2220,Gariyaband,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,21,2221,Kondagaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,22,2222,Sukama,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,23,2223,Bemetara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,24,2224,Balod,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,25,2225,Mungeli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,26,2226,Surajpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+22,Chhattisgarh,27,2227,Balrampur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,1,2301,Sheopur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,2,2302,Morena,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,3,2303,Bhind,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,4,2304,Gwalior,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,5,2305,Datia,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,6,2306,Shivpuri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,7,2307,Tikamgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,8,2308,Chhatarpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,9,2309,Panna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,10,2310,Sagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,11,2311,Damoh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,12,2312,Satna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,13,2313,Rewa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,14,2314,Umaria,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,15,2315,Neemuch,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,16,2316,Mandsaur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,17,2317,Ratlam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,18,2318,Ujjain,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,19,2319,Shajapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,20,2320,Dewas,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,21,2321,Dhar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,22,2322,Indore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,23,2323,Khargone (West Nimar),MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,24,2324,Barwani,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,25,2325,Rajgarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,26,2326,Vidisha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,27,2327,Bhopal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,28,2328,Sehore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,29,2329,Raisen,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,30,2330,Betul,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,31,2331,Harda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,32,2332,Hoshangabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,33,2333,Katni,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,34,2334,Jabalpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,35,2335,Narsimhapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,36,2336,Dindori,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,37,2337,Mandla,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,38,2338,Chhindwara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,39,2339,Seoni,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,40,2340,Balaghat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,41,2341,Guna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,42,2342,Ashoknagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,43,2343,Shahdol,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,44,2344,Anuppur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,45,2345,Sidhi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,46,2346,Singrauli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,47,2347,Jhabua,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,48,2348,Alirajpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,49,2349,Khandwa (East Nimar),MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+23,Madhya Pradesh,50,2350,Burhanpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,1,2401,Kachchh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,2,2402,Banas Kantha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,3,2403,Patan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,4,2404,Mahesana,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,5,2405,Sabar Kantha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,6,2406,Gandhinagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,7,2407,Ahmadabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,8,2408,Surendranagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,9,2409,Rajkot,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,10,2410,Jamnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,11,2411,Porbandar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,12,2412,Junagadh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,13,2413,Amreli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,14,2414,Bhavnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,15,2415,Anand,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,16,2416,Kheda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,17,2417,Panch Mahals,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,18,2418,Dohad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,19,2419,Vadodara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,20,2420,Narmada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,21,2421,Bharuch,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,22,2422,The Dangs,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,23,2423,Navsari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,24,2424,Valsad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,25,2425,Surat,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,26,2426,Tapi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,27,2427,Arvalli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,28,2428,Botad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,29,2429,Chhota Udepur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,30,2430,Dev Bhumi-Dwarka,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,31,2431,Gir Somnath,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,32,2432,Mahisagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+24,Gujarat,33,2433,Morbi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+25,Daman & Diu,1,2501,Diu,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+25,Daman & Diu,2,2502,Daman,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+26,Dadra & Nagar Haveli,1,2601,Dadra & Nagar Haveli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+27,Maharashtra,1,2701,Nandurbar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,2,2702,Dhule,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,3,2703,Jalgaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,4,2704,Buldana,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,5,2705,Akola,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,6,2706,Washim,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,7,2707,Amravati,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,8,2708,Wardha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,9,2709,Nagpur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,10,2710,Bhandara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,11,2711,Gondiya,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,12,2712,Gadchiroli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,13,2713,Chandrapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,14,2714,Yavatmal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,15,2715,Nanded,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,16,2716,Hingoli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,17,2717,Parbhani,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,18,2718,Jalna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,19,2719,Aurangabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,20,2720,Nashik,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,21,2721,Thane,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,22,2722,Mumbai Suburban,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,24,2724,Raigarh,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,25,2725,Pune,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,26,2726,Ahmadnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,27,2727,Bid,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,28,2728,Latur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,29,2729,Osmanabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,30,2730,Solapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,31,2731,Satara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,32,2732,Ratnagiri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,33,2733,Sindhudurg,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,34,2734,Kolhapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+27,Maharashtra,35,2735,Sangli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,NSS77 mapping matches existing Maharashtra reference
+28,Andhra Pradesh,1,2801,Srikakulam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,2,2802,Vizianagaram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,3,2803,Visakhapatnam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,4,2804,East Godavari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,5,2805,West Godavari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,6,2806,Krishna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,7,2807,Guntur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,8,2808,Prakasam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,9,2809,Sri Potti Sriramulu Nellore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,10,2810,Y.S.R. (Cuddapah),MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,11,2811,Kurnool,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,12,2812,Anantapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+28,Andhra Pradesh,13,2813,Chittoor,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,1,2901,Belgaum,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,2,2902,Bagalkot,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,3,2903,Bijapur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,4,2904,Bidar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,5,2905,Raichur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,6,2906,Koppal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,7,2907,Gadag,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,8,2908,Dharwad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,9,2909,Uttara Kannada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,10,2910,Haveri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,11,2911,Bellary,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,12,2912,Chitradurga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,13,2913,Davanagere,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,14,2914,Shimoga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,15,2915,Udupi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,16,2916,Chikmagalur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,17,2917,Tumkur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,18,2918,Bangalore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,19,2919,Mandya,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,20,2920,Hassan,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,21,2921,Dakshina Kannada,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,22,2922,Kodagu,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,23,2923,Mysore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,24,2924,Chamarajanagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,25,2925,Gulbarga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,26,2926,Yadgir,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,27,2927,Kolar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,28,2928,Chikkaballapura,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,29,2929,Bangalore Rural,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+29,Karnataka,30,2930,Ramanagara,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+30,Goa,1,3001,North Goa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+30,Goa,2,3002,South Goa,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+31,Lakshadweep,1,3101,Lakshadweep,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,1,3201,Kasaragod,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,2,3202,Kannur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,3,3203,Wayanad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,4,3204,Kozhikode,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,5,3205,Malappuram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,6,3206,Palakkad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,7,3207,Thrissur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,8,3208,Ernakulam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,9,3209,Idukki,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,10,3210,Kottayam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,11,3211,Alappuzha,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,12,3212,Pathanamthitta,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,13,3213,Kollam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+32,Kerala,14,3214,Thiruvananthapuram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,1,3301,Thiruvallur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,2,3302,Chennai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,3,3303,Kancheepuram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,4,3304,Vellore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,5,3305,Tiruvannamalai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,6,3306,Viluppuram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,7,3307,Salem,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,8,3308,Namakkal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,9,3309,Erode,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,10,3310,The Nilgiris,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,11,3311,Dindigul,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,12,3312,Karur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,13,3313,Tiruchirappalli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,14,3314,Perambalur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,15,3315,Ariyalur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,16,3316,Cuddalore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,17,3317,Nagapattinam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,18,3318,Thiruvarur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,19,3319,Thanjavur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,20,3320,Pudukkottai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,21,3321,Sivaganga,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,22,3322,Madurai,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,23,3323,Theni,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,24,3324,Virudhunagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,25,3325,Ramanathapuram,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,26,3326,Thoothukkudi,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,27,3327,Tirunelveli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,28,3328,Kanniyakumari,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,29,3329,Dharmapuri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,30,3330,Krishnagiri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,31,3331,Coimbatore,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+33,Tamil Nadu,32,3332,Tiruppur,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+34,Puducherry,1,3401,Yanam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+34,Puducherry,2,3402,Puducherry,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+34,Puducherry,3,3403,Mahe,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+34,Puducherry,4,3404,Karaikal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+35,Andaman & Nicobar Islands,1,3501,Nicobars,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+35,Andaman & Nicobar Islands,2,3502,North & Middle Andaman,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+35,Andaman & Nicobar Islands,3,3503,South Andaman,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,1,3601,Adilabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,2,3602,Komaram Bheem,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,3,3603,Mancherial,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,4,3604,Nirmal,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,5,3605,Nizamabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,6,3606,Jagtial,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,7,3607,Peddapalli,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,8,3608,Jayashankar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,9,3609,Bhadradri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,10,3610,Mahabubabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,11,3611,Warangal Rural,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,12,3612,Warangal Urban,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,13,3613,Karimnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,14,3614,Rajanna,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,15,3615,Kamareddy,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,16,3616,Sangareddy,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,17,3617,Medak,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,18,3618,Siddipet,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,19,3619,Jangaon,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,20,3620,Yadadri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,21,3621,Medchal-Malkajgiri,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,22,3622,Hyderabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,23,3623,Rangareddy,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,24,3624,Vikarabad,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,25,3625,Mahbubnagar,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,26,3626,Jogulamba,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,27,3627,Wanaparthy,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,28,3628,Nagarkurnool,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,29,3629,Nalgonda,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,30,3630,Suryapet,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II
+36,Telangana,31,3631,Khammam,MoSPI NSS 77th Round Vol-I Appendix II,VERIFIED_NSS77,Matched by State_ID + District_Code against NSS 77th Round Appendix II

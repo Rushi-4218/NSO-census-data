@@ -1,0 +1,11 @@
+INPUT must contain exactly these source files:
+
+SAS_Master_Complete_Data_Dictionary.xlsx
+Situation Assessment Survey of Farmers, 2003.zip
+Situation Assessment Survey of Agricultural Households, January - December 2013.zip
+Situation Assessment survey of Agricultural households, NSS 70th Round  Jan - Dec 2013  Visit 2.zip
+Land and Livestock Holding of Households and Situation Assessment of Agricultural Households)-JANUARY 2019 – DECEMBER 2019-Visit 1.zip
+SAS_Maharashtra.csv
+
+The bundled master dictionary already includes the State_District lookup sheet.
+Do not extract the four raw survey ZIPs.

@@ -1,0 +1,271 @@
+{
+  "survey": {
+    "survey_name": "Debt & Investment, Jan - Dec 2003",
+    "round": "NSS 59th Round",
+    "schedule": "18.2",
+    "country": "India",
+    "stock_reference_date": "2002-06-30",
+    "capital_expenditure_reference_period": {
+      "start": "2002-07-01",
+      "end": "2003-06-30"
+    },
+    "fieldwork": {
+      "visit_1": "Jan-Aug 2003",
+      "visit_2": "Sep-Dec 2003"
+    }
+  },
+  "production_sources": {
+    "visit1_identification": "D:\\AIDIS\\AIDIS_2003_All_India_Pipeline\\input\\official_csv\\Data_CSV\\Visit1_Blocks_1_and_2.csv",
+    "combined_identification": "D:\\AIDIS\\AIDIS_2003_All_India_Pipeline\\input\\official_csv\\Data_CSV\\Visit1and2_CBlocks_1and2.csv",
+    "production_manifest": "D:\\AIDIS\\AIDIS_2003_All_India_Pipeline\\cache\\step01_production_manifest.csv",
+    "resolved_variable_mapping": "D:\\AIDIS\\AIDIS_2003_All_India_Pipeline\\cache\\step01b_variable_mapping_resolved.csv",
+    "resolved_variable_config": "D:\\AIDIS\\AIDIS_2003_All_India_Pipeline\\config\\aidis_2003_variable_map_resolved.json"
+  },
+  "estimation": {
+    "locked_weight_field": "Weight",
+    "do_not_use_raw_mlt_directly": true,
+    "weight_rule": "Weight = MLT/200 when NSC > NSS; otherwise MLT/100",
+    "weight_rule_validated_against_microdata": true,
+    "ratio_estimator_pattern": "sum(Weight * numerator) / sum(Weight * denominator_indicator)",
+    "missing_weight_policy": "Fail/flag record; never silently replace with 1"
+  },
+  "visit_and_panel_strategy": {
+    "stock_kpis": {
+      "source": "Visit 1",
+      "reason": "Assets/liabilities are estimated as on 30-06-2002; stock reconstruction is based on Visit-1 information.",
+      "household_universe": "Visit-1 surveyed households",
+      "expected_households": 143285
+    },
+    "full_year_flow_kpis": {
+      "source": "Visit 1 & 2 Combined",
+      "reason": "The two visits supply the two half-year portions required for 01-07-2002 to 30-06-2003 flow estimates.",
+      "household_universe": "Households canvassed in both visits",
+      "expected_panel_households": 139039,
+      "aggregation": "Aggregate visit-specific flow facts to PANEL_HHID, then estimate once per household using one household Weight."
+    },
+    "panel_key": {
+      "name": "PANEL_HHID",
+      "derivation": "Remove the 8th character (1-based) from the 10-character visit-specific HHID.",
+      "python_equivalent": "HHID[:7] + HHID[8:]",
+      "validation": "Each PANEL_HHID must have exactly Visit_no 1 and Visit_no 2.",
+      "use_for_cross_visit_join": true,
+      "do_not_join_visits_on_raw_hhid": true
+    }
+  },
+  "sector_codes": {
+    "1": "Rural",
+    "2": "Urban"
+  },
+  "household_groups": {
+    "rural": {
+      "cultivator": {
+        "rule": "B3_q8 >= 0.002 hectares",
+        "official_definition": "Household operated at least 0.002 hectare for agricultural activities during the last 365 days."
+      },
+      "non_cultivator": {
+        "rule": "B3_q8 < 0.002 hectares or no operated land"
+      },
+      "important_note": "Do not substitute household-type code B3_q4=4 for the official cultivator definition."
+    },
+    "urban": {
+      "self_employed": {
+        "rule": "B3_q4 == 1",
+        "description": "Major source of household income during last 365 days was self-employment."
+      },
+      "others": {
+        "rule": "B3_q4 in {2,3,9}",
+        "description": "Regular wage/salary, casual labour, and other households."
+      }
+    }
+  },
+  "geography": {
+    "state_code_field": "State",
+    "district_code_field": "District",
+    "state_region_field": "State_Region",
+    "policy": "Use NSS 59th Round / survey-era geography. Do not remap observations to present-day states or districts.",
+    "name_mapping": "Build/use a 2003 survey-era state/district codebook; preserve original codes in final output."
+  },
+  "assets": {
+    "reference_date": "2002-06-30",
+    "universe": "Visit 1 households",
+    "asset_side_blocks": [
+      "5 Land",
+      "6 Buildings and constructions",
+      "7 Livestock and poultry",
+      "8 Agricultural machinery and implements",
+      "9 Non-farm business equipment",
+      "10 Transport equipment",
+      "11 Durable assets",
+      "12 Shares and debentures",
+      "13 Other financial assets",
+      "14 Loans receivable"
+    ],
+    "block14_treatment": "Loans receivable are assets. Never include Block 14 in household payable debt.",
+    "valuation_principle": "Use official as-on-30-06-2002 values where directly supplied; otherwise reconstruct the 30-06-2002 stock from schedule-prescribed stock/transaction fields.",
+    "household_total_asset_value": "Sum all non-overlapping physical and financial asset components at household level before weighting.",
+    "ava": "Weighted mean household total asset value = sum(Weight*HH_asset_value)/sum(Weight).",
+    "gini_asset": "Client-derived weighted Gini of household total asset value; disclose as derived, not an official published NSS statistic unless independently matched to a publication.",
+    "asset_deciles": "Client-derived weighted deciles of household total asset value; do not confuse with published asset-holding classes."
+  },
+  "debt": {
+    "reference_date": "2002-06-30",
+    "core_debt_definition": "Cash loans payable outstanding as on 30-06-2002.",
+    "source": "Visit1 Block 15.2",
+    "loan_join_key": [
+      "HHID",
+      "B15_2_q1"
+    ],
+    "part1_fields": {
+      "credit_agency": "B15_2_q6",
+      "nature_of_interest": "B15_2_q9",
+      "rate_of_interest": "B15_2_q10",
+      "purpose": "B15_2_q11"
+    },
+    "part2_fields": {
+      "amount_outstanding_2002_06_30": "B15_2_q24"
+    },
+    "indebted_household_rule": "Household is indebted when summed B15_2_q24 cash-loan debt > 0.",
+    "block16_policy": "Kind loans and other liabilities are not included in the core AOD/IOI/DAR cash-debt metric; retain separately if a client output explicitly requires them.",
+    "formulas": {
+      "AOD_Rs_per_HH": "sum(Weight*HH_cash_debt)/sum(Weight)",
+      "AODL_Rs_per_indebted_HH": "sum(Weight*HH_cash_debt)/sum(Weight*indebted_indicator)",
+      "IOI_percent": "100*sum(Weight*indebted_indicator)/sum(Weight)",
+      "DAR_percent": "100*sum(Weight*HH_cash_debt)/sum(Weight*HH_total_asset_value)"
+    }
+  },
+  "credit_agency_codes": {
+    "institutional_codes": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08"
+    ],
+    "non_institutional_codes": [
+      "09",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "99"
+    ],
+    "labels": {
+      "01": "Government",
+      "02": "Co-operative society / co-operative bank",
+      "03": "Commercial bank including regional rural bank",
+      "04": "Insurance",
+      "05": "Provident fund",
+      "06": "Financial corporation / institution",
+      "07": "Financial company",
+      "08": "Other institutional agency",
+      "09": "Landlord",
+      "10": "Agriculturist money lender",
+      "11": "Professional money lender",
+      "12": "Trader",
+      "13": "Relatives and friends",
+      "14": "Doctors, lawyers and other professionals",
+      "99": "Other agency"
+    }
+  },
+  "interest_nature_codes": {
+    "1": "Interest free",
+    "2": "Simple",
+    "3": "Compound",
+    "4": "Concessional rate"
+  },
+  "loan_purpose_codes": {
+    "1": "Capital expenditure in farm business",
+    "2": "Current expenditure in farm business",
+    "3": "Capital expenditure in non-farm business",
+    "4": "Current expenditure in non-farm business",
+    "5": "Household expenditure",
+    "6": "Litigation",
+    "7": "Repayment of debt",
+    "8": "Financial investment expenditure",
+    "9": "Other purpose"
+  },
+  "capital_expenditure": {
+    "reference_period": "2002-07-01 to 2003-06-30",
+    "source": "Visit 1 & 2 Combined Blocks 17 and 18 with schedule-specific item coding",
+    "fce_definition": "Fixed capital expenditure: purchase/construction/additions/alterations/improvements/major repairs of fixed assets, including eligible home-produced inputs and household labour, following the schedule/report rules.",
+    "epl_definition": "Expenditure on purchase of land; keep separate from fixed capital expenditure where the official report does so.",
+    "normal_repairs": "Recurring normal repairs/maintenance are tracked separately and must not be mixed into FCE unless the official table definition explicitly requires them."
+  },
+  "official_qa_controls_for_later_steps": {
+    "debt_2002": {
+      "rural": {
+        "IOI_percent": 26.5,
+        "AOD_Rs_per_HH": 7539,
+        "AODL_Rs_per_indebted_HH": 28449
+      },
+      "urban": {
+        "IOI_percent": 17.8,
+        "AOD_Rs_per_HH": 11771,
+        "AODL_Rs_per_indebted_HH": 66129
+      },
+      "usage": "Validation controls for Step 04; allow only explainable publication-rounding differences."
+    }
+  },
+  "documented_client_limitations": [
+    {
+      "code": "SCB_RRB_NOT_SEPARABLE",
+      "severity": "NONBLOCKING_DISCLOSURE",
+      "detail": "2003 credit-agency code 03 combines commercial banks including RRBs. Do not fabricate separate SCB and RRB estimates from this field."
+    },
+    {
+      "code": "COOP_BANK_SOCIETY_COMBINED",
+      "severity": "NONBLOCKING_DISCLOSURE",
+      "detail": "Credit-agency code 02 combines co-operative society and co-operative bank in the schedule classification."
+    },
+    {
+      "code": "ADULT_BANK_ACCOUNT_GENDER_NOT_DIRECT",
+      "severity": "NONBLOCKING_DISCLOSURE",
+      "detail": "The available person-level Block 4 does not directly provide individual bank-account ownership. Do not manufacture total/male/female adult bank-account indicators without an independently supported variable or external source."
+    },
+    {
+      "code": "NBFC_LABEL_CAUTION",
+      "severity": "NONBLOCKING_DISCLOSURE",
+      "detail": "Code 07 is officially labelled financial company. If presented as NBFC, label the transformation/disclosure explicitly rather than silently renaming the category."
+    }
+  ],
+  "pipeline_invariants": [
+    "Aggregate one-to-many fact blocks to household level before joining to the household base.",
+    "Never multiply household Weight by the number of asset/loan/item rows.",
+    "Use raw HHID for joins within a single visit and PANEL_HHID for cross-visit joins.",
+    "For paired-flow estimates, use one household Weight after visit-level facts have been consolidated to PANEL_HHID.",
+    "Preserve 2003 State/District codes alongside mapped names.",
+    "Do not reuse NSS 77th Round variable formulas or geography mappings unless independently proven identical for NSS 59th Round."
+  ],
+  "validation_snapshot": {
+    "visit1_rows": 143285,
+    "visit1_sector_counts": {
+      "2": 52093,
+      "1": 91192
+    },
+    "visit1_weight_mismatches": 0,
+    "combined_rows": 278078,
+    "combined_visit_counts": {
+      "1": 139039,
+      "2": 139039
+    },
+    "panel_households": 139039,
+    "complete_panel_households": 139039,
+    "panel_format_errors": 0,
+    "panel_geo_mismatches": 0,
+    "combined_weight_mismatches": 0
+  },
+  "reference_documents": [
+    "Schedule_V1_18.pdf",
+    "Schedule_V2_18.pdf",
+    "500_final.pdf",
+    "501_final.pdf",
+    "502_final.pdf",
+    "503_final.pdf",
+    "504_final.pdf"
+  ],
+  "methodology_lock_status": "LOCKED"
+}

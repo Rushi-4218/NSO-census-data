@@ -1,0 +1,21 @@
+﻿item_code,description,asset_group,land_purchase_item,eligible_for_fce,detail_item
+1,Residential land,Household,1,0,1
+2,Purchase of house / building,Household,0,1,1
+3,Addition to house / building,Household,0,1,1
+4,Farm land,Farm business,1,0,1
+5,Land rights,Farm business,1,0,1
+6,Barns and animal sheds,Farm business,0,1,1
+7,Orchards and plantations,Farm business,0,1,1
+8,Wells / irrigation / construction,Farm business,0,1,1
+9,Working / breeding cattle and buffaloes,Farm business,0,1,1
+10,Egg-laying ducks and hens,Farm business,0,1,1
+11,Agricultural machinery and implements,Farm business,0,1,1
+12,Transport equipment - farm business,Farm business,0,1,1
+13,Other farm-business fixed assets,Farm business,0,1,1
+14,Non-farm business land,Non-farm business,1,0,1
+15,Workplace / shop / construction,Non-farm business,0,1,1
+16,Non-farm business equipment and accessories,Non-farm business,0,1,1
+17,Transport equipment - non-farm business,Non-farm business,0,1,1
+18,Other non-farm business fixed assets,Non-farm business,0,1,1
+97,Subtotal - items 1 to 10,Subtotal,0,0,0
+98,Subtotal - items 11 to 18,Subtotal,0,0,0

@@ -7,9 +7,9 @@ Private code repository for National Statistical Office survey and census data-p
 | Category | Purpose | Current state |
 |---|---|---|
 | [ASUSE](ASUSE/) | Annual Survey of Unincorporated Sector Enterprises | Pipeline code added |
-| [HCES](HCES/) | Household Consumption Expenditure Survey | Placeholder |
-| [SAS](SAS/) | Situation Assessment Survey | Placeholder |
-| [AIDIS](AIDIS/) | All India Debt and Investment Survey | Placeholder |
+| [HCES](HCES/) | Household Consumption Expenditure Survey | Pipeline code added |
+| [SAS](SAS/) | Situation Assessment Survey | Pipeline code added (v6) |
+| [AIDIS](AIDIS/) | All India Debt and Investment Survey | Pipeline code added |
 | [Agri_Census](Agri_Census/) | Agriculture Census | Placeholder |
 
 ## Data policy

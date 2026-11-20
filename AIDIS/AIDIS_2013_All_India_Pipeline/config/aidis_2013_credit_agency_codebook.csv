@@ -1,0 +1,18 @@
+﻿code,agency,agency_class
+01,Government,Institutional
+02,Co-operative society / co-operative bank,Institutional
+03,Commercial bank including RRB,Institutional
+04,Insurance,Institutional
+05,Provident fund,Institutional
+06,Financial corporation / institution,Institutional
+07,Financial company,Institutional
+08,Self-help group - bank linked,Institutional
+10,Self-help group - NBFC linked,Institutional
+11,Other institutional agency,Institutional
+12,Landlord,Non-institutional
+13,Agricultural moneylender,Non-institutional
+14,Professional moneylender,Non-institutional
+15,Input supplier,Non-institutional
+16,Relatives and friends,Non-institutional
+17,Doctors / lawyers / other professionals,Non-institutional
+09,Others,Non-institutional

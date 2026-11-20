@@ -1,0 +1,8 @@
+pandas
+numpy
+polars
+pyarrow
+xlsxwriter
+openpyxl
+pymupdf
+pymupdf4llm

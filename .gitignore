@@ -1,12 +1,32 @@
-# Never commit category-level source data or generated deliverables.
+# Never commit source data or generated deliverables.
+# Top-level category folders (does not match src/mapping or src/qa).
 /*/Input/
+/*/INPUT/
 /*/input/
 /*/work/
 /*/output/
+/*/outputs/
+/*/reports/
 /*/qa/
 /*/mapping/
 /*/logs/
+/*/cache/
 /*/output.zip
+
+# Nested year-pipeline data folders.
+cache/
+input/
+Input/
+INPUT/
+output/
+outputs/
+work/
+logs/
+reports/
+
+# Source archives
+*.7z
+*.zip
 
 # Python and local environments
 __pycache__/

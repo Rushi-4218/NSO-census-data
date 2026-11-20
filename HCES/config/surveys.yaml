@@ -1,0 +1,67 @@
+client:
+  survey_id: HCES
+  survey_name: Household Consumption Expenditure Survey
+  survey_group_id: 1
+  group_name: Household Consumption Expenditure Survey (HCES)
+  frequency: Annual
+  output_columns:
+    - Survey_ID
+    - Survey_NAME
+    - Survey_GROUP_ID
+    - GROUP_NAME
+    - SUB_GROUP_ID
+    - SUB_GROUP_NAME
+    - Year
+    - FREQ_DESC
+    - State_ID
+    - State_Name
+    - District_ID
+    - District_Name
+    - Sector_code
+    - Sector
+    - Published_date
+    - Extracted_Date
+    - Col_ID
+    - COL_DESC
+    - DATA
+    - Unit
+    - Source
+  subgroups:
+    household_nominal: {id: 1, name: Household MPCE at Nominal Price}
+    average_nominal: {id: 2, name: Average MPCE at Nominal Price}
+    average_constant: {id: 3, name: Average MPCE at Constant (2011-12) Price}
+    share_mpce: {id: 4, name: Share in MPCE (%) }
+    cereal_share: {id: 5, name: Share of Cereals in MPCE (%) }
+    gini: {id: 6, name: Gini Coefficient of MPCE}
+
+surveys:
+  '2011-12':
+    model: legacy_2011
+    year: '2011-12'
+    source: https://microdata.gov.in/NADA/index.php/catalog/126
+    dictionary: HCES_Data_Dictionary_Complete_2011-12_FINAL_CATALOG_RAW_VALIDATED.xlsx
+    profile: HCES(2011-12)_Full_Scan_Profile.xlsx
+    ddi: DDI-IND-MOSPI-NSSO-68Rnd-Sch2.0-July2011-June2012.xml
+    weight_divisor: 1.0
+    constant_price_identity: true
+    published_date: ''
+  '2022-23':
+    model: three_visit
+    year: '2022-23'
+    source: https://microdata.gov.in/NADA/index.php/catalog/224
+    dictionary: HCES_Data_Dictionary_Complete_2022-23_FINAL_CATALOG_VALIDATED.xlsx
+    profile: HCES(2022-23)_Full_Scan_Profile.xlsx
+    ddi: DDI-IND-MOSPI-NSSO-HCES22-23.xml
+    weight_divisor: 100.0
+    constant_price_identity: false
+    published_date: ''
+  '2023-24':
+    model: three_visit
+    year: '2023-24'
+    source: https://microdata.gov.in/NADA/index.php/catalog/237
+    dictionary: HCES_Data_Dictionary_Complete_2023-24.xlsx
+    profile: HCES(2023-24)_Full_Scan_Profile.xlsx
+    ddi: DDI-IND-MOSPI-NSS-HCES23-24.xml
+    weight_divisor: 100.0
+    constant_price_identity: false
+    published_date: ''

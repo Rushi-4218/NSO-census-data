@@ -1,0 +1,34 @@
+{
+  "step": "04",
+  "name": "Weighted KPI / All-India-State-District indicator cube",
+  "status": "PASS",
+  "script_revision": "R1-FASTTRACK-INDICATOR-CUBE-2026-08-27",
+  "project_root": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline",
+  "estimation": {
+    "stock_universe": "Visit-1 household universe",
+    "stock_weight": "Visit-1 Weight_SC",
+    "flow_universe": "Exact Visit-1/Visit-2 common panel",
+    "flow_weight": "Visit-2 Weight_SC"
+  },
+  "rows": {
+    "cube": 4609,
+    "all_india": 7,
+    "state": 252,
+    "district": 4350
+  },
+  "official_controls": {
+    "total": 18,
+    "passed": 18
+  },
+  "errors": [],
+  "warnings": [],
+  "outputs": {
+    "indicator_cube": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\data\\aidis_2013_indicator_cube.csv",
+    "all_india": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\data\\aidis_2013_all_india_kpis.csv",
+    "state": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\data\\aidis_2013_state_kpis.csv",
+    "district": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\data\\aidis_2013_district_kpis.csv",
+    "checks": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\cache\\step04_indicator_cube_checks.csv",
+    "controls": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\cache\\step04_official_control_validation.csv",
+    "summary": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\reports\\step04_indicator_cube_summary.txt"
+  }
+}

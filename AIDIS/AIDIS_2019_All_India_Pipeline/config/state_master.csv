@@ -1,0 +1,37 @@
+State_ID,State_Name,File_Name
+1,Jammu & Kashmir,AIDIS_Jammu_Kashmir.csv
+2,Himachal Pradesh,AIDIS_Himachal_Pradesh.csv
+3,Punjab,AIDIS_Punjab.csv
+4,Chandigarh,AIDIS_Chandigarh.csv
+5,Uttarakhand,AIDIS_Uttarakhand.csv
+6,Haryana,AIDIS_Haryana.csv
+7,Delhi,AIDIS_Delhi.csv
+8,Rajasthan,AIDIS_Rajasthan.csv
+9,Uttar Pradesh,AIDIS_Uttar_Pradesh.csv
+10,Bihar,AIDIS_Bihar.csv
+11,Sikkim,AIDIS_Sikkim.csv
+12,Arunachal Pradesh,AIDIS_Arunachal_Pradesh.csv
+13,Nagaland,AIDIS_Nagaland.csv
+14,Manipur,AIDIS_Manipur.csv
+15,Mizoram,AIDIS_Mizoram.csv
+16,Tripura,AIDIS_Tripura.csv
+17,Meghalaya,AIDIS_Meghalaya.csv
+18,Assam,AIDIS_Assam.csv
+19,West Bengal,AIDIS_West_Bengal.csv
+20,Jharkhand,AIDIS_Jharkhand.csv
+21,Odisha,AIDIS_Odisha.csv
+22,Chhattisgarh,AIDIS_Chhattisgarh.csv
+23,Madhya Pradesh,AIDIS_Madhya_Pradesh.csv
+24,Gujarat,AIDIS_Gujarat.csv
+25,Daman & Diu,AIDIS_Daman_Diu.csv
+26,Dadra & Nagar Haveli,AIDIS_Dadra_Nagar_Haveli.csv
+27,Maharashtra,AIDIS_Maharashtra.csv
+28,Andhra Pradesh,AIDIS_Andhra_Pradesh.csv
+29,Karnataka,AIDIS_Karnataka.csv
+30,Goa,AIDIS_Goa.csv
+31,Lakshadweep,AIDIS_Lakshadweep.csv
+32,Kerala,AIDIS_Kerala.csv
+33,Tamil Nadu,AIDIS_Tamil_Nadu.csv
+34,Puducherry,AIDIS_Puducherry.csv
+35,Andaman & Nicobar Islands,AIDIS_Andaman_Nicobar_Islands.csv
+36,Telangana,AIDIS_Telangana.csv

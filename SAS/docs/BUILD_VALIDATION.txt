@@ -1,0 +1,33 @@
+BUILD VALIDATION - 2026-08-27
+==============================
+
+Development smoke tests were run against the supplied project inputs.
+
+2003: PASS
+- 3,000 household-visits sampled
+- 42,000 client rows generated
+- 24-column schema PASS
+- all 14 KPI IDs present
+- visits 1 and 2 present
+
+2013: PASS
+- 6,000 household-visits sampled (Visit 1 + Visit 2)
+- 84,000 client rows generated
+- 24-column schema PASS
+- all 14 KPI IDs present
+- visits 1 and 2 present
+
+2019: PASS
+- 6,000 household-visits sampled (Visit 1 + Visit 2)
+- 84,000 client rows generated
+- 24-column schema PASS
+- all 14 KPI IDs present
+- visits 1 and 2 present
+
+Master dictionary contract validation:
+- 24 client columns PASS
+- 14 KPI contract PASS
+- 2003/2013/2019 survey rounds present PASS
+- required land-size contract PASS
+
+These are structural smoke tests, not a substitute for the full-run QA reports or statistical validation against official published tables.

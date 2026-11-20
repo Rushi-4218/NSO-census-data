@@ -1,0 +1,143 @@
+{
+  "step": "03",
+  "name": "Canonical common-panel household flow layer",
+  "status": "PASS",
+  "script_revision": "R3-LAND-PURCHASE-Q4-ONLY-2026-08-27",
+  "project_root": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline",
+  "upstream": {
+    "step02_status": "PASS_WITH_DISCLOSURES",
+    "methodology_lock": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_methodology_lock.json",
+    "step02_lock": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_step02_lock.json"
+  },
+  "panel": {
+    "visit1_households": 110800,
+    "visit2_households": 108425,
+    "common_households": 108421,
+    "panel_key": "Exact HHID equality",
+    "flow_weight": "Visit-2 Weight_SC",
+    "visit2_weight_source": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\raw\\visit2\\Debt & Investment Visit 2 , Jan - Dec 2013\\Visit 2_Block 1&2_Identification of sample household and particulars of field operations.xlsx"
+  },
+  "reference_periods": {
+    "visit1": "01-07-2012 to 31-12-2012",
+    "visit2": "01-01-2013 to 30-06-2013",
+    "annual": "01-07-2012 to 30-06-2013"
+  },
+  "block16_method": {
+    "join_key": [
+      "HHID",
+      "b16_q2"
+    ],
+    "fce_formula": "sum of q4+q5+q6+q7, except q4 on land item codes 1,4,5,14 is reported separately as land purchase; q5/q6/q7 on land items remain in FCE",
+    "normal_repairs": "b16_q8 retained separately; excluded from FCE",
+    "land_purchase_item_codes": [
+      "1",
+      "4",
+      "5",
+      "14"
+    ],
+    "subtotal_item_codes_excluded": [
+      "97",
+      "98"
+    ],
+    "disposals": "b16_q12 + b16_q13 + b16_q14 retained separately; not netted from FCE",
+    "q10_q11_q15": "retained for audit; not part of FCE"
+  },
+  "raw_files": {
+    "v1_main": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\raw\\visit1\\Debt & Investment, NSS 70th Round Visit-1 Jan - Dec 2013\\Visit 1_Block 16.csv",
+    "v1_value": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\raw\\visit1\\Debt & Investment, NSS 70th Round Visit-1 Jan - Dec 2013\\Visit 1_Block 16_value.csv",
+    "v2_main": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\raw\\visit2\\Debt & Investment Visit 2 , Jan - Dec 2013\\Visit 2_Block 16_Value (`) of transactions by the household on specified items _capital expenditure.csv",
+    "v2_value": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\raw\\visit2\\Debt & Investment Visit 2 , Jan - Dec 2013\\Visit 2_Block 16_value (`) of transactions by the household on specified items during 01.01.2013 to 30.06.2013.csv"
+  },
+  "visit_audit": {
+    "v1": {
+      "common_households_with_detail_items": 108421,
+      "common_households_without_detail_items": 0,
+      "unweighted_fce": 1007987537.0,
+      "unweighted_land_purchase": 112648870.0,
+      "unweighted_normal_repairs": 126412785.0,
+      "unweighted_disposals": 82476927.0,
+      "joined_keys": 2054748,
+      "main_only_keys": 0,
+      "value_only_keys": 0
+    },
+    "v2": {
+      "common_households_with_detail_items": 108421,
+      "common_households_without_detail_items": 0,
+      "unweighted_fce": 649456157.0,
+      "unweighted_land_purchase": 56460410.0,
+      "unweighted_normal_repairs": 130685540.0,
+      "unweighted_disposals": 80420190.0,
+      "joined_keys": 2025332,
+      "main_only_keys": 0,
+      "value_only_keys": 0
+    }
+  },
+  "official_flow_controls": [
+    {
+      "control_id": "FCE_RURAL_ALL",
+      "family": "Capital Expenditure",
+      "sector": "Rural",
+      "household_group": "All",
+      "metric": "Average fixed capital expenditure",
+      "mapped_metric": "Average FCE",
+      "published_value": "10717",
+      "computed_value": "10717.17658",
+      "difference": "0.17658",
+      "absolute_tolerance": "214.34",
+      "validation_mode": "HARD",
+      "status": "PASS"
+    },
+    {
+      "control_id": "FCE_RURAL_CULT",
+      "family": "Capital Expenditure",
+      "sector": "Rural",
+      "household_group": "Cultivator",
+      "metric": "Average fixed capital expenditure",
+      "mapped_metric": "Average FCE",
+      "published_value": "22741",
+      "computed_value": "13457.201031",
+      "difference": "-9283.798969",
+      "absolute_tolerance": "454.82",
+      "validation_mode": "DIAGNOSTIC",
+      "status": "DIFFERENT"
+    },
+    {
+      "control_id": "FCE_URBAN_ALL",
+      "family": "Capital Expenditure",
+      "sector": "Urban",
+      "household_group": "All",
+      "metric": "Average fixed capital expenditure",
+      "mapped_metric": "Average FCE",
+      "published_value": "14493",
+      "computed_value": "14492.534998",
+      "difference": "-0.465002",
+      "absolute_tolerance": "289.86",
+      "validation_mode": "HARD",
+      "status": "PASS"
+    },
+    {
+      "control_id": "FCE_URBAN_SELFEMP",
+      "family": "Capital Expenditure",
+      "sector": "Urban",
+      "household_group": "Self-employed",
+      "metric": "Average fixed capital expenditure",
+      "mapped_metric": "Average FCE",
+      "published_value": "26197",
+      "computed_value": "21994.759368",
+      "difference": "-4202.240632",
+      "absolute_tolerance": "523.94",
+      "validation_mode": "DIAGNOSTIC",
+      "status": "DIFFERENT"
+    }
+  ],
+  "errors": [],
+  "warnings": [],
+  "disclosures": [],
+  "outputs": {
+    "household_flow": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\data\\aidis_2013_household_flow.csv",
+    "checks": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\cache\\step03_household_flow_checks.csv",
+    "block16_audit": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\cache\\step03_block16_visit_audit.csv",
+    "official_control_validation": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\cache\\step03_official_control_validation.csv",
+    "summary": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\output\\reports\\step03_household_flow_summary.txt"
+  }
+}

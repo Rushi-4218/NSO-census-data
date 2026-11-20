@@ -1,0 +1,15 @@
+﻿variable,meaning,role,production_rule
+b16_q2,Item serial number,Key,Used with HHID to align the two Block-16 halves
+b16_q3,Floor area in square metres - urban only,Attribute,
+b16_q4,Purchase,Expenditure,Included in FCE except land-purchase item codes
+b16_q5,Addition,Expenditure,Included in FCE
+b16_q6,Major repairs and alterations,Expenditure,Included in FCE
+b16_q7,Improvement,Expenditure,Included in FCE
+b16_q8,Normal repairs and maintenance,Expenditure,NOT included in fixed capital expenditure
+b16_q9,Total expenditure columns 4 to 8,Derived total,Audit identity only. Do not use directly for FCE because it includes normal repairs.
+b16_q10,Institutional borrowing used for financing,Financing,Not added to FCE amount
+b16_q11,Non-institutional borrowing used for financing,Financing,Not added to FCE amount
+b16_q12,Sale,Disposal,Separate transaction; do not subtract from FCE
+b16_q13,Discardment,Disposal,Separate transaction; do not subtract from FCE
+b16_q14,Loss,Disposal,Separate transaction; do not subtract from FCE
+b16_q15,Total disposal columns 12 to 14,Derived total,Audit identity

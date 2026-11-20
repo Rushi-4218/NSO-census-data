@@ -1,0 +1,356 @@
+{
+  "survey": {
+    "survey": "All India Debt and Investment Survey",
+    "round": "NSS 70th Round",
+    "schedule": "18.2",
+    "survey_year": 2013,
+    "visit1_sample_households": 110800,
+    "visit2_sample_households": 108425,
+    "common_households": 108421,
+    "observed_states_uts": 36,
+    "observed_state_district_combinations": 634
+  },
+  "production_principles": {
+    "raw_inputs_immutable": true,
+    "step01_manifest_is_source_lock": true,
+    "step01b_catalog_is_variable_lock": true,
+    "aggregate_one_to_many_before_weighting": true,
+    "do_not_reuse_2003_variable_formulas": true,
+    "do_not_reuse_2003_panel_key_rule": true,
+    "preserve_survey_era_geography": true,
+    "modern_state_or_district_crosswalk_not_used_for_core_estimation": true
+  },
+  "reference_periods": {
+    "asset_stock": {
+      "visit": 1,
+      "reference_date": "30-06-2012"
+    },
+    "debt_stock": {
+      "visit": 1,
+      "reference_date": "30-06-2012",
+      "cash_loans_only_for_official_IOI_AOD": true
+    },
+    "visit2_liability_reference": {
+      "visit": 2,
+      "reference_date": "30-06-2013",
+      "use_for_primary_30_06_2012_debt_KPIs": false
+    },
+    "capital_expenditure_visit1": {
+      "from": "01-07-2012",
+      "to": "31-12-2012"
+    },
+    "capital_expenditure_visit2": {
+      "from": "01-01-2013",
+      "to": "30-06-2013"
+    },
+    "capital_expenditure_combined": {
+      "from": "01-07-2012",
+      "to": "30-06-2013"
+    }
+  },
+  "household_linkage": {
+    "key": [
+      "HHID"
+    ],
+    "rule": "Exact HHID equality between Visit 1 and Visit 2",
+    "expected_common_households": 108421,
+    "2003_string_deletion_rule_used": false
+  },
+  "weighting": {
+    "stock_visit1": {
+      "weight_variable": "Weight_SC",
+      "source_visit": 1,
+      "rule": "Aggregate source records to required household fact first; apply household Weight_SC only after aggregation."
+    },
+    "visit2_only": {
+      "weight_variable": "Weight_SC",
+      "source_visit": 2
+    },
+    "combined_visit1_visit2": {
+      "universe": "Exact common households only",
+      "weight_variable": "Weight_SC",
+      "weight_source": "Visit 2",
+      "reason": "Combined common-household estimates use the Visit-2 combined-estimate multiplier / final combined weight."
+    },
+    "reconstruct_weight_from_MLT_NSS_NSC": false
+  },
+  "household_classification": {
+    "rural": {
+      "sector_code": "1",
+      "cultivator": {
+        "operated_area_variable": "b3q5",
+        "rule": "b3q5 >= 0.002 hectares"
+      },
+      "non_cultivator": {
+        "operated_area_variable": "b3q5",
+        "rule": "b3q5 < 0.002 hectares or no operated land as defined by the survey"
+      }
+    },
+    "urban": {
+      "sector_code": "2",
+      "household_type_variable": "HH_type",
+      "self_employed_codes": [
+        "1"
+      ],
+      "others_codes": [
+        "2",
+        "3",
+        "9"
+      ]
+    }
+  },
+  "assets": {
+    "reference_date": "30-06-2012",
+    "source_visit": 1,
+    "physical_components": [
+      "Land",
+      "Buildings and other constructions",
+      "Livestock and poultry",
+      "Agricultural machinery and implements",
+      "Non-farm business equipment",
+      "Transport equipment"
+    ],
+    "financial_components": [
+      "Shares and debentures",
+      "Deposits and other financial assets",
+      "Amount receivable"
+    ],
+    "excluded": [
+      "Household consumer durables",
+      "Bullion and ornaments"
+    ],
+    "total_assets": "Sum locked included asset components at household level",
+    "weight_after_household_aggregation": true
+  },
+  "debt": {
+    "primary_stock_visit": 1,
+    "reference_date": "30-06-2012",
+    "source_block": 14,
+    "loan_type": "Cash loans payable",
+    "outstanding_variable": "b14_q17",
+    "indebted_household": "Household sum of positive b14_q17 > 0",
+    "kind_loans_block15_in_official_IOI_AOD": false,
+    "credit_agency_variable": "b14_q6",
+    "interest_nature_variable": "b14_q9",
+    "interest_rate_variable": "b14_q10",
+    "purpose_variable": "b14_q11",
+    "institutional_codes": [
+      "01",
+      "02",
+      "03",
+      "04",
+      "05",
+      "06",
+      "07",
+      "08",
+      "10",
+      "11"
+    ],
+    "non_institutional_codes": [
+      "09",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17"
+    ],
+    "blank_stock_outstanding": "Treat as zero for 30-06-2012 stock; audit separately",
+    "do_not_double_count_explicit_total_rows": true
+  },
+  "block16": {
+    "visit1_file_half_1": "Visit 1_Block 16.csv",
+    "visit1_file_half_2": "Visit 1_Block 16_value.csv",
+    "visit2_metadata_half_1": "Visit 2_Block 16 (1)",
+    "visit2_metadata_half_2": "Visit 2_Block 16 (2)",
+    "within_visit_join_key": [
+      "HHID",
+      "b16_q2"
+    ],
+    "visit1_reference_period": [
+      "01-07-2012",
+      "31-12-2012"
+    ],
+    "visit2_reference_period": [
+      "01-01-2013",
+      "30-06-2013"
+    ],
+    "identity_checks": {
+      "b16_q9": "b16_q4 + b16_q5 + b16_q6 + b16_q7 + b16_q8",
+      "b16_q15": "b16_q12 + b16_q13 + b16_q14"
+    }
+  },
+  "capital_expenditure": {
+    "universe": "108421 exact common households",
+    "weight": "Visit-2 Weight_SC",
+    "detail_item_codes": [
+      "1",
+      "2",
+      "3",
+      "4",
+      "5",
+      "6",
+      "7",
+      "8",
+      "9",
+      "10",
+      "11",
+      "12",
+      "13",
+      "14",
+      "15",
+      "16",
+      "17",
+      "18"
+    ],
+    "subtotal_codes_excluded": [
+      "97",
+      "98"
+    ],
+    "fixed_capital_expenditure": {
+      "eligible_item_codes": [
+        "2",
+        "3",
+        "6",
+        "7",
+        "8",
+        "9",
+        "10",
+        "11",
+        "12",
+        "13",
+        "15",
+        "16",
+        "17",
+        "18"
+      ],
+      "columns": [
+        "b16_q4",
+        "b16_q5",
+        "b16_q6",
+        "b16_q7"
+      ],
+      "formula": "SUM(q4 + q5 + q6 + q7) for eligible detail items",
+      "normal_repairs_q8_included": false,
+      "disposals_q12_q14_netted": false
+    },
+    "purchase_of_land": {
+      "item_codes": [
+        "1",
+        "4",
+        "5",
+        "14"
+      ],
+      "amount_variable": "b16_q4",
+      "included_in_fixed_capital_expenditure": false
+    },
+    "normal_repairs": {
+      "amount_variable": "b16_q8",
+      "separate_metric": true
+    },
+    "financing": {
+      "institutional": "b16_q10",
+      "non_institutional": "b16_q11",
+      "add_to_fce_amount": false
+    },
+    "disposals": {
+      "sale": "b16_q12",
+      "discardment": "b16_q13",
+      "loss": "b16_q14",
+      "total": "b16_q15",
+      "subtract_from_fce": false
+    }
+  },
+  "financial_inclusion": {
+    "household_bank_account_supported": true,
+    "bank_account_variable": "b3q8",
+    "adult_male_female_bank_account_counts_supported": false,
+    "rule": "Do not fabricate adult/gender bank-account counts if not represented by survey variables."
+  },
+  "geography": {
+    "use_raw_state_codes": true,
+    "use_raw_district_codes": true,
+    "expected_states_uts": 36,
+    "expected_state_district_combinations": 634,
+    "modern_geography_crosswalk_for_core_results": false
+  },
+  "reference_documents": [
+    {
+      "role": "instructions_chapter1",
+      "required": 0,
+      "present": 1,
+      "file_name": "ins70chap1.pdf",
+      "path": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\reference\\ins70chap1.pdf",
+      "size_bytes": 334969,
+      "sha256": "22ea836811b256a36c27875ffb0e3ba7690ab7705d60ae60cb6d678747965ad5",
+      "official_url": ""
+    },
+    {
+      "role": "instructions_chapter4",
+      "required": 1,
+      "present": 1,
+      "file_name": "Ins70chap4.pdf",
+      "path": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\reference\\Ins70chap4.pdf",
+      "size_bytes": 2131447,
+      "sha256": "0d0c7986cfa402a59249c902f20e65c58703f59cba38e1df719b3245553473aa",
+      "official_url": "https://mospi.gov.in/sites/default/files/publication_reports/Ins70chap4.pdf"
+    },
+    {
+      "role": "key_indicators",
+      "required": 1,
+      "present": 1,
+      "file_name": "KI_70_18.2_19dec14.pdf",
+      "path": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\reference\\KI_70_18.2_19dec14.pdf",
+      "size_bytes": 3199398,
+      "sha256": "5d44603b34275a3e244f98badbff7ea99ae5b70b38b90ebd089c2ecc12443b30",
+      "official_url": "https://mospi.gov.in/sites/default/files/publication_reports/KI_70_18.2_19dec14.pdf"
+    },
+    {
+      "role": "report_570",
+      "required": 0,
+      "present": 1,
+      "file_name": "nss_Report_570.pdf",
+      "path": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\reference\\nss_Report_570.pdf",
+      "size_bytes": 9962208,
+      "sha256": "88a7ce4b693d1497c88b32c65ff95021a68267e40177201fbdf5631ca4dc794b",
+      "official_url": "https://mospi.gov.in/sites/default/files/publication_reports/nss_Report_570.pdf"
+    },
+    {
+      "role": "report_577",
+      "required": 0,
+      "present": 0,
+      "file_name": "",
+      "path": "",
+      "size_bytes": "",
+      "sha256": "",
+      "official_url": ""
+    },
+    {
+      "role": "report_578",
+      "required": 0,
+      "present": 1,
+      "file_name": "nss_578.pdf",
+      "path": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\reference\\nss_578.pdf",
+      "size_bytes": 9201497,
+      "sha256": "de91d2d29d60c7ded31a6547f20c3793c4e8fd12bda70cb3d995b40253fec392",
+      "official_url": "https://mospi.gov.in/sites/default/files/publication_reports/nss_578.pdf"
+    },
+    {
+      "role": "report_579",
+      "required": 1,
+      "present": 1,
+      "file_name": "NSS_579_7mar17.pdf",
+      "path": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\input\\reference\\NSS_579_7mar17.pdf",
+      "size_bytes": 19316112,
+      "sha256": "3924d337923644e9bea861cba55b76b9a88cc871bbeb983bb15aeb7dafcc50dd",
+      "official_url": "https://mospi.gov.in/sites/default/files/publication_reports/NSS_579_7mar17.pdf"
+    }
+  ],
+  "official_control_file": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_official_controls.csv",
+  "asset_method_file": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_asset_methodology.csv",
+  "credit_agency_codebook": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_credit_agency_codebook.csv",
+  "interest_codebook": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_interest_codebook.csv",
+  "purpose_codebook": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_credit_purpose_codebook.csv",
+  "block16_variable_map": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_block16_variable_map.csv",
+  "block16_item_codebook": "D:\\AIDIS\\AIDIS_2013_All_India_Pipeline\\config\\aidis_2013_block16_item_codebook.csv"
+}

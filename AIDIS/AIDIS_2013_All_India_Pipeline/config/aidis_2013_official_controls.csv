@@ -1,0 +1,36 @@
+﻿control_id,family,sector,household_group,metric,published_value,unit,tolerance,source
+STRUCT_V1_HH,Structure,All India,All,Visit-1 households,110800,Households,Exact,Step01
+STRUCT_V2_HH,Structure,All India,All,Visit-2 households,108425,Households,Exact,Step01
+STRUCT_COMMON_HH,Structure,All India,All,Common households,108421,Households,Exact,Report 579 / Step01
+AVA_RURAL_CULT,Assets,Rural,Cultivator,AVA,2872956,Rs/HH,1%,Key Indicators
+AVA_RURAL_NONCULT,Assets,Rural,Non-cultivator,AVA,674527,Rs/HH,1%,Key Indicators
+AVA_RURAL_ALL,Assets,Rural,All,AVA,1006985,Rs/HH,1%,Key Indicators
+AVA_URBAN_SELFEMP,Assets,Urban,Self-employed,AVA,5079429,Rs/HH,1%,Key Indicators
+AVA_URBAN_OTHERS,Assets,Urban,Others,AVA,1991505,Rs/HH,1%,Key Indicators
+AVA_URBAN_ALL,Assets,Urban,All,AVA,2285135,Rs/HH,1%,Key Indicators
+DEBT_RURAL_CULT_IOI,Debt,Rural,Cultivator,IOI,45.94,%,0.50 percentage point,Key Indicators
+DEBT_RURAL_CULT_AOD,Debt,Rural,Cultivator,AOD,70580,Rs/HH,1%,Key Indicators
+DEBT_RURAL_CULT_AODL,Debt,Rural,Cultivator,AODL,153640,Rs/indebted HH,1%,Key Indicators
+DEBT_RURAL_NONCULT_IOI,Debt,Rural,Non-cultivator,IOI,28.85,%,0.50 percentage point,Key Indicators
+DEBT_RURAL_NONCULT_AOD,Debt,Rural,Non-cultivator,AOD,25741,Rs/HH,1%,Key Indicators
+DEBT_RURAL_NONCULT_AODL,Debt,Rural,Non-cultivator,AODL,89221,Rs/indebted HH,1%,Key Indicators
+DEBT_RURAL_ALL_IOI,Debt,Rural,All,IOI,31.44,%,0.50 percentage point,Key Indicators
+DEBT_RURAL_ALL_AOD,Debt,Rural,All,AOD,32522,Rs/HH,1%,Key Indicators
+DEBT_RURAL_ALL_AODL,Debt,Rural,All,AODL,103457,Rs/indebted HH,1%,Key Indicators
+DEBT_URBAN_SELFEMP_IOI,Debt,Urban,Self-employed,IOI,35.85,%,0.50 percentage point,Key Indicators
+DEBT_URBAN_SELFEMP_AOD,Debt,Urban,Self-employed,AOD,108714,Rs/HH,1%,Key Indicators
+DEBT_URBAN_SELFEMP_AODL,Debt,Urban,Self-employed,AODL,303221,Rs/indebted HH,1%,Key Indicators
+DEBT_URBAN_OTHERS_IOI,Debt,Urban,Others,IOI,20.96,%,0.50 percentage point,Key Indicators
+DEBT_URBAN_OTHERS_AOD,Debt,Urban,Others,AOD,82094,Rs/HH,1%,Key Indicators
+DEBT_URBAN_OTHERS_AODL,Debt,Urban,Others,AODL,391724,Rs/indebted HH,1%,Key Indicators
+DEBT_URBAN_ALL_IOI,Debt,Urban,All,IOI,22.37,%,0.50 percentage point,Key Indicators
+DEBT_URBAN_ALL_AOD,Debt,Urban,All,AOD,84625,Rs/HH,1%,Key Indicators
+DEBT_URBAN_ALL_AODL,Debt,Urban,All,AODL,378238,Rs/indebted HH,1%,Key Indicators
+INST_IOI_RURAL,Debt Source,Rural,All,Institutional IOI,17.2,%,0.75 percentage point,Key Indicators
+NONINST_IOI_RURAL,Debt Source,Rural,All,Non-institutional IOI,19.0,%,0.75 percentage point,Key Indicators
+INST_IOI_URBAN,Debt Source,Urban,All,Institutional IOI,14.8,%,0.75 percentage point,Key Indicators
+NONINST_IOI_URBAN,Debt Source,Urban,All,Non-institutional IOI,10.3,%,0.75 percentage point,Key Indicators
+FCE_RURAL_ALL,Capital Expenditure,Rural,All,Average fixed capital expenditure,10717,Rs/HH,2%,Report 579
+FCE_RURAL_CULT,Capital Expenditure,Rural,Cultivator,Average fixed capital expenditure,22741,Rs/HH,2%,Report 579
+FCE_URBAN_ALL,Capital Expenditure,Urban,All,Average fixed capital expenditure,14493,Rs/HH,2%,Report 579
+FCE_URBAN_SELFEMP,Capital Expenditure,Urban,Self-employed,Average fixed capital expenditure,26197,Rs/HH,2%,Report 579
